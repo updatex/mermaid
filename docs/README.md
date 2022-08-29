@@ -1,4 +1,4 @@
-# About Mermaid
+# About Mermaid test
 
 **Mermaid lets you create diagrams and visualizations using text and code.**
 
